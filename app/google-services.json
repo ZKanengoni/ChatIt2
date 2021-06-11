@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1072382716759",
+    "firebase_url": "https://chatit-61581-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatit-61581",
+    "storage_bucket": "chatit-61581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072382716759:android:cb08980290cb18d2ee2c12",
+        "android_client_info": {
+          "package_name": "com.example.chatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072382716759-vn0cnjpj5r7egu25d9c8pohvgcgmjrp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-BEHknlVsxVE12VWh7pXFoYTf8rOWUYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072382716759-vn0cnjpj5r7egu25d9c8pohvgcgmjrp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
